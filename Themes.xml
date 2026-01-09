@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+
+    <!-- 🔗 Links base (mantidos apenas para referência) -->
+    <data  
+        xmlurl="https://raw.githubusercontent.com/msmodsbr/Temas/main/Xml/"  
+        wall="https://raw.githubusercontent.com/msmodsbr/Temas/main/Wall/"  
+        screen="https://raw.githubusercontent.com/msmodsbr/Temas/main/Screen/"
+    />
+
+    <!-- 🌟 Lista de temas --> 
+    <theme>
+        <title>Speed Man</title>
+        <date>By Luiz Otávio</date> 
+    </theme>
+
+</theme>
