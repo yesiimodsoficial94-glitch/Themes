@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="tittle_size" value="20" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <string name="key_quick_position">top</string>
+    <int name="key_updown_iconcolor" value="-1" />
+    <string name="menit1">0</string>
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <string name="key_custom_title_three"></string>
+    <string name="key_stories_png_rows">0</string>
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <int name="chats_row_stroke_width_key" value="2" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <boolean name="Barra_Busqueda" value="true" />
+    <string name="key_stories_png_bg">0</string>
+    <int name="key_dwh_size_row" value="80" />
+    <string name="key_custom_title_four"></string>
+    <string name="deltalabs_home_ui">parallax_card_ui</string>
+    <int name="quickText" value="-1" />
+    <boolean name="abu_saleh_forward_tovoice" value="false" />
+    <boolean name="key_trans_wallpaper_view" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <string name="detik1">0</string>
+    <boolean name="tittle_center" value="false" />
+    <string name="ui_home_styleV3">stock</string>
+    <boolean name="yo_want_airplanemode" value="false" />
+    <boolean name="key_hide_scrolldown" value="false" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <int name="rowleft" value="184" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="Ajustes_WhatsApp" value="true" />
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <boolean name="key_carousel_3d" value="false" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="ModConBackColor_check" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="key_msbb003" value="true" />
+    <boolean name="Nuevo_WhatsApp" value="true" />
+    <string name="key_custom_title"></string>
+    <boolean name="key_carousel_alpha" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <boolean name="key_wave_enabled" value="true" />
+    <string name="bubble_style">atrb20</string>
+    <boolean name="onlineDotchat" value="false" />
+    <boolean name="key_hide_wallpaper_convo_view" value="false" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <string name="yx_anim_style">0</string>
+    <string name="key_custom_title_seven"></string>
+    <string name="chat_wallpaper_select">img</string>
+    <boolean name="abu_saleh_key_fab_caht" value="true" />
+    <boolean name="AttBt" value="false" />
+    <int name="key_msnewstab2" value="12" />
+    <boolean name="key_carousel_view" value="false" />
+    <string name="home_stories_style">view</string>
+    <boolean name="on_anim" value="false" />
+    <boolean name="abu_saleh_play_voice_note" value="false" />
+    <boolean name="multiChats" value="false" />
+    <int name="sub_tittle_size" value="10" />
+    <boolean name="chats_filter_plus" value="true" />
+    <string name="key_header_view">v1</string>
+    <string name="key_custom_title_five"></string>
+    <string name="ui_header_style">new</string>
+    <int name="pestop" value="100" />
+    <boolean name="tittle_bold" value="false" />
+    <string name="key_custom_title_two"></string>
+    <boolean name="log_show_name_check" value="true" />
+    <int name="delta_trans_alpha" value="80" />
+    <boolean name="on_shadow_text" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <boolean name="home_stories_key" value="true" />
+    <int name="chats_row_rounded_key" value="20" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="chats_filter_key" value="true" />
+    <boolean name="enable_ig_stories" value="false" />
+    <string name="delight_app_theme">1</string>
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <boolean name="admin_abosaleh" value="false" />
+    <string name="key_story_view">0</string>
+    <string name="tick_style">stockorg</string>
+    <boolean name="read_more" value="false" />
+    <boolean name="key_hide_scrollup" value="false" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <int name="delight_app_theme_dark" value="-16051174" />
+    <int name="quickBK" value="-16734076" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="my_name" value="false" />
+    <int name="key_emoji_size" value="2" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <int name="key_updown_bgcolor" value="-16734076" />
+    <boolean name="Audio_ears" value="false" />
+    <string name="yx_contact_style">0</string>
+    <string name="key_custom_title_six"></string>
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="key_dwh_size_banner" value="170" />
+    <boolean name="key_regg" value="true" />
+    <string name="key_dial1">0</string>
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <string name="HomeEntry">wamod</string>
+    <boolean name="grpAdmin_enabled" value="true" />
+    <boolean name="rc_tab_liquid2" value="false" />
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <string name="jamm1">0</string>
+    <int name="main_text" value="17" />
+    <boolean name="rc_tab_liquid" value="false" />
+    <int name="text_size_pick" value="16" />
+</map>
