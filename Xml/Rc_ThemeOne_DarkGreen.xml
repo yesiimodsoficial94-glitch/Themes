@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChaSendBKColor" value="-15239072" />
+    <int name="tittle_size" value="20" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="false" />
+    <int name="emojipopup_icons" value="-15633583" />
+    <int name="ModFabNormalColor" value="-15160955" />
+    <string name="menit1">0</string>
+    <boolean name="hide_action_l" value="false" />
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="true" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="isSwipeEnabled" value="true" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <boolean name="tabadgeTextColor_Gactive" value="false" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="list_bg_color_Gactive" value="false" />
+    <int name="emojipopup_body" value="-16777216" />
+    <boolean name="ModChatEmojiColor_Gactive" value="false" />
+    <boolean name="NameProf" value="false" />
+    <boolean name="emojipopup_body_Gactive" value="false" />
+    <boolean name="Barra_Busqueda" value="true" />
+    <int name="ModChatRightBubble" value="-14803426" />
+    <string name="deltalabs_home_ui">stock</string>
+    <int name="ConvoBack" value="-16777216" />
+    <boolean name="onlinechat" value="true" />
+    <string name="detik1">0</string>
+    <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="ModChatLeftBubble" value="-15239072" />
+    <boolean name="enable_fivminstatus" value="false" />
+    <boolean name="tittle_center" value="false" />
+    <string name="ui_home_styleV3">one</string>
+    <boolean name="yo_want_airplanemode" value="false" />
+    <int name="ModDarkConPickColor" value="-16437980" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="ModChatColor_GC" value="-15976145" />
+    <boolean name="chat_contactpicV2" value="true" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <boolean name="chat_mypicV2" value="true" />
+    <int name="list_bg_color" value="-15921907" />
+    <boolean name="group_mypicV2" value="true" />
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="Ajustes_WhatsApp" value="true" />
+    <int name="ModConBackColor" value="-16777216" />
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <boolean name="key_carousel_3d" value="false" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="key_msbb003" value="true" />
+    <string name="key_custom_title"></string>
+    <boolean name="Nuevo_WhatsApp" value="true" />
+    <int name="ModConPickColor_GCDir" value="2" />
+    <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <boolean name="key_carousel_alpha" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <boolean name="key_wave_enabled" value="true" />
+    <boolean name="ModChatColor_Gactive" value="true" />
+    <string name="bubble_style">bdrop</string>
+    <int name="ModChatBubbleHyperlinks" value="-1959108" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="ModChatLeftBubble_Gactive" value="false" />
+    <string name="yx_anim_style">0</string>
+    <int name="ModDarkConPickColorNav" value="-16777216" />
+    <int name="ModChatColor_GCDir" value="2" />
+    <string name="pic_startlocation">1</string>
+    <boolean name="AttBt" value="false" />
+    <boolean name="pic_inside" value="false" />
+    <boolean name="key_carousel_view" value="false" />
+    <string name="home_stories_style">view</string>
+    <boolean name="on_anim" value="false" />
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <boolean name="statuschat" value="true" />
+    <int name="sub_tittle_size" value="10" />
+    <int name="ModChatEmojiColor" value="-15239072" />
+    <boolean name="chats_filter_plus" value="true" />
+    <int name="emojipopup_header" value="-16777216" />
+    <boolean name="emojipopup_icons_Gactive" value="false" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <string name="key_header_view">v1</string>
+    <int name="HomeBarText" value="-1" />
+    <string name="ui_header_style">new</string>
+    <int name="ModChatColor" value="-15633583" />
+    <boolean name="tittle_bold" value="false" />
+    <int name="tabadgeBKColor" value="-6218188" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="emojipopup_header_Gactive" value="false" />
+    <boolean name="home_imgBK" value="false" />
+    <boolean name="on_shadow_text" value="false" />
+    <boolean name="home_stories_key" value="true" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="enable_ig_stories" value="false" />
+    <int name="ModConPickColor" value="-15633583" />
+    <int name="tabadgeTextColor" value="-1" />
+    <string name="ConvoEntry">7</string>
+    <int name="ModConColor" value="-16777216" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <string name="key_story_view">4</string>
+    <string name="tick_style">stockorg</string>
+    <int name="ModConPickColor_GC" value="-15976145" />
+    <boolean name="hide_fab" value="true" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <int name="ModConColor_GCDir" value="2" />
+    <string name="ui_bottom_style">one</string>
+    <boolean name="ModConBackColor_Gactive" value="false" />
+    <boolean name="my_name" value="false" />
+    <int name="pic_chat_size_pickerV2" value="40" />
+    <boolean name="TxtSelect" value="true" />
+    <boolean name="custom_wall" value="true" />
+    <boolean name="ModChatEntry_Gactive" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <int name="ModChatEntry" value="-15724528" />
+    <boolean name="ConvoBack_Gactive" value="false" />
+    <string name="yx_contact_style">0</string>
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="key_dwh_size_banner" value="170" />
+    <boolean name="group_participants_picV2" value="true" />
+    <boolean name="key_regg" value="true" />
+    <boolean name="ModConPickColor_Gactive" value="true" />
+    <string name="key_dial1">0</string>
+    <string name="HomeEntry">yousef</string>
+    <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <boolean name="key_story_elevation" value="false" />
+    <boolean name="rc_tab_liquid2" value="false" />
+    <string name="jamm1">0</string>
+    <int name="main_text" value="17" />
+    <boolean name="ModChatRightBubble_Gactive" value="false" />
+    <int name="ModConColor_GC" value="-15976145" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <boolean name="rc_tab_liquid" value="false" />
+    <int name="text_size_pick" value="16" />
+</map>
