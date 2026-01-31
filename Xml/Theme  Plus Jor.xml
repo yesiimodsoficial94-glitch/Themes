@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="tittle_size" value="20" />
+    <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="my_statusd" value="true" />
+    <string name="key_quick_position">top</string>
+    <boolean name="imsHideVStatus" value="false" />
+    <string name="Style_XxxX_Bywa_HM">0</string>
+    <boolean name="status_audio" value="true" />
+    <int name="key_updown_iconcolor" value="-1" />
+    <string name="menit1">0</string>
+    <boolean name="hide_action_s" value="false" />
+    <int name="ModFabNormalColor" value="-16078598" />
+    <boolean name="newAttach_BottomDesign" value="false" />
+    <boolean name="hide_action_l" value="false" />
+    <string name="key_custom_title_three"></string>
+    <string name="key_stories_png_rows">0</string>
+    <boolean name="hide_action_m" value="false" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="Audio_sensor" value="true" />
+    <boolean name="Hide_div" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <int name="chats_row_stroke_width_key" value="2" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
+    <boolean name="key_hide_unsaved_num" value="false" />
+    <boolean name="SA_Call" value="false" />
+    <boolean name="Barra_Busqueda" value="true" />
+    <boolean name="abu_saleh_media" value="false" />
+    <string name="key_stories_png_bg">0</string>
+    <int name="key_dwh_size_row" value="80" />
+    <boolean name="Verification_Key" value="false" />
+    <string name="key_custom_title_four"></string>
+    <string name="deltalabs_home_ui">rounded_trans</string>
+    <int name="quickText" value="-1" />
+    <boolean name="abu_saleh_forward_tovoice" value="false" />
+    <int name="ConvoBack" value="-13428997" />
+    <boolean name="key_trans_wallpaper_view" value="false" />
+    <boolean name="onlinechat" value="false" />
+    <boolean name="key_copy_selected" value="false" />
+    <string name="detik1">0</string>
+    <boolean name="enable_fivminstatus" value="true" />
+    <boolean name="tittle_center" value="false" />
+    <string name="ui_home_styleV3">stock</string>
+    <boolean name="yo_want_airplanemode" value="false" />
+    <boolean name="key_hide_scrolldown" value="false" />
+    <boolean name="enable_grp_separationV2" value="true" />
+    <int name="ModChatColor_GC" value="-16078598" />
+    <boolean name="yo_multi_account_menu" value="false" />
+    <boolean name="Abu_Saleh_Previewbtn" value="false" />
+    <int name="key_msnewsbanner2" value="12" />
+    <boolean name="bubble_more_options_dlg" value="false" />
+    <boolean name="Estilo_IA" value="true" />
+    <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
+    <boolean name="Ajustes_WhatsApp" value="false" />
+    <boolean name="hide_action_mas" value="false" />
+    <boolean name="yo_want_toolbar_camV2" value="true" />
+    <boolean name="key_carousel_3d" value="false" />
+    <boolean name="key_method_endgp" value="false" />
+    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
+    <boolean name="key_msbb003" value="true" />
+    <boolean name="ForcedCPU" value="false" />
+    <string name="key_custom_title"></string>
+    <boolean name="Nuevo_WhatsApp" value="true" />
+    <int name="ModConPickColor_GCDir" value="2" />
+    <boolean name="direkt_link_degistir" value="false" />
+    <boolean name="key_carousel_alpha" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <boolean name="key_wave_enabled" value="true" />
+    <boolean name="ModChatColor_Gactive" value="true" />
+    <string name="bubble_style">hang</string>
+    <boolean name="onlineDotchat" value="false" />
+    <boolean name="abu_saleh_image_quality" value="true" />
+    <boolean name="key_hide_wallpaper_convo_view" value="true" />
+    <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="false" />
+    <boolean name="yesiiwa_ultraHMWA_ProfileeesWa" value="false" />
+    <string name="yx_anim_style">0</string>
+    <int name="key_accent_color" value="-16728876" />
+    <string name="key_custom_title_seven"></string>
+    <int name="ModChatColor_GCDir" value="2" />
+    <boolean name="abu_saleh_key_fab_caht" value="true" />
+    <boolean name="AttBt" value="false" />
+    <int name="key_msnewstab2" value="12" />
+    <boolean name="enable_statuspage_extras" value="true" />
+    <boolean name="key_carousel_view" value="false" />
+    <string name="home_stories_style">thumbnail_v2</string>
+    <boolean name="on_anim" value="false" />
+    <int name="key_blur_raduis" value="15" />
+    <boolean name="Siiro_updates_text" value="false" />
+    <boolean name="abu_saleh_play_voice_note" value="false" />
+    <boolean name="multiChats" value="false" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="sub_tittle_size" value="10" />
+    <boolean name="yesii_emoji_plus_check" value="false" />
+    <boolean name="chats_filter_plus" value="true" />
+    <boolean name="AntiBan" value="false" />
+    <string name="key_header_view">v1</string>
+    <string name="key_custom_title_five"></string>
+    <string name="ui_header_style">new</string>
+    <boolean name="chats_row_color_key_Gactive" value="false" />
+    <int name="ModChatColor" value="-13428997" />
+    <boolean name="imsHideRStatus" value="false" />
+    <boolean name="tittle_bold" value="false" />
+    <boolean name="hide_translation_icon" value="false" />
+    <boolean name="Antiban_2026" value="true" />
+    <string name="key_custom_title_two"></string>
+    <boolean name="log_show_name_check" value="true" />
+    <int name="delta_trans_alpha" value="80" />
+    <boolean name="on_shadow_text" value="false" />
+    <boolean name="home_stories_key" value="true" />
+    <int name="chats_row_rounded_key" value="20" />
+    <boolean name="isSwipeEnabledV2" value="false" />
+    <boolean name="yesiimodz_vc" value="false" />
+    <boolean name="custom_wall_profilepic" value="false" />
+    <boolean name="Hide_contact_picker_section_other_contacts" value="false" />
+    <boolean name="chats_conversacion" value="true" />
+    <boolean name="key_disable_sts_txt" value="false" />
+    <boolean name="enable_ig_stories" value="false" />
+    <string name="delight_app_theme">1</string>
+    <boolean name="stkr_wantsendconfirmation" value="true" />
+    <int name="ModConPickColor" value="-13428997" />
+    <boolean name="abo_saleh_audio_limit_check" value="true" />
+    <string name="ConvoEntry">7</string>
+    <int name="chats_row_color_key" value="-2130706433" />
+    <int name="ModConColor" value="-13428997" />
+    <string name="status_reaction">😍</string>
+    <boolean name="admin_abosaleh" value="false" />
+    <string name="key_story_view">0</string>
+    <boolean name="Img_share_limit" value="true" />
+    <string name="tick_style">stockorg</string>
+    <int name="ModConPickColor_GC" value="-16078598" />
+    <boolean name="read_more" value="false" />
+    <string name="abu_saleh_quickcontact">1</string>
+    <boolean name="hide_fab" value="false" />
+    <boolean name="Status_WhatsApp" value="true" />
+    <boolean name="key_more_docs_send" value="true" />
+    <boolean name="key_hide_scrollup" value="false" />
+    <boolean name="yo_want_nightmode" value="true" />
+    <int name="ModConColor_GCDir" value="2" />
+    <boolean name="hide_search_chat_by_date" value="false" />
+    <int name="delight_app_theme_dark" value="-16051174" />
+    <boolean name="imsHideMStatus" value="false" />
+    <int name="quickBK" value="-16744343" />
+    <boolean name="key_quick_view" value="false" />
+    <boolean name="my_name" value="false" />
+    <int name="key_emoji_size" value="2" />
+    <boolean name="max_status" value="false" />
+    <boolean name="custom_wall" value="false" />
+    <boolean name="key_up_performance" value="false" />
+    <boolean name="elapsed_time" value="false" />
+    <string name="ModConBackColor_select">img</string>
+    <boolean name="chats_row_color_key_check" value="true" />
+    <boolean name="abu9aleh_media_video_player" value="false" />
+    <int name="key_updown_bgcolor" value="-16744343" />
+    <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <boolean name="hide_action_a" value="false" />
+    <boolean name="hide_action_b" value="false" />
+    <boolean name="Audio_ears" value="false" />
+    <boolean name="ConvoBack_Gactive" value="true" />
+    <string name="key_custom_title_six"></string>
+    <int name="square_photo_ratio_picker" value="100" />
+    <int name="key_dwh_size_banner" value="170" />
+    <boolean name="key_regg" value="true" />
+    <string name="key_status_ui">5</string>
+    <string name="key_dial1">0</string>
+    <boolean name="ModConPickColor_Gactive" value="true" />
+    <boolean name="emoji_meta" value="true" />
+    <string name="hazar_bozkurt_sesler_gidenmesaj">0</string>
+    <string name="HomeEntry">telegram</string>
+    <boolean name="rc_tab_liquid2" value="false" />
+    <boolean name="grpAdmin_enabled" value="true" />
+    <int name="ConvoBack_GC" value="-16078598" />
+    <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
+    <int name="ConvoBack_GCDir" value="4" />
+    <string name="jamm1">0</string>
+    <int name="main_text" value="17" />
+    <int name="ModConColor_GC" value="-16078598" />
+    <boolean name="rc_tab_liquid" value="false" />
+    <boolean name="ModConColor_Gactive" value="true" />
+    <int name="text_size_pick" value="16" />
+</map>
