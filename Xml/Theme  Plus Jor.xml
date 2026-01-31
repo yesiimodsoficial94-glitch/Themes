@@ -58,6 +58,7 @@
     <boolean name="key_carousel_3d" value="false" />
     <boolean name="key_method_endgp" value="false" />
     <boolean name="yo_hideinfo" value="true" />
+    <boolean name="ModConBackColor_check" value="true" />
     <boolean name="PicProf" value="false" />
     <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
     <boolean name="key_msbb003" value="true" />
@@ -110,6 +111,7 @@
     <boolean name="log_show_name_check" value="true" />
     <int name="delta_trans_alpha" value="80" />
     <boolean name="on_shadow_text" value="false" />
+    <boolean name="home_imgBK" value="true" />
     <boolean name="home_stories_key" value="true" />
     <int name="chats_row_rounded_key" value="20" />
     <boolean name="isSwipeEnabledV2" value="false" />
